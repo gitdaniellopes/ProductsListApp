@@ -1,8 +1,8 @@
-# ProductsListApp
-Aplicativo listar todas as moedas de bitcoin e seus detalhes.
+# Products List App
+Aplicativo que lista, cadastra e atualiza produtos e mostra o valor total de sua compra. 
 
 
-## :camera_flash:
+## :camera_flash: ScreenShots
 
 <img src="https://user-images.githubusercontent.com/26637908/174123633-cdc97e79-a4b6-4188-80bf-a91e3d095cb8.png" width="260">&emsp;
 <img src="https://user-images.githubusercontent.com/26637908/174123725-5d281be7-3722-476c-b058-37a504869bbc.png" width="260">&emsp;
@@ -10,18 +10,14 @@ Aplicativo listar todas as moedas de bitcoin e seus detalhes.
 
 ## :bulb: Motivação
 
-A motivação desse projeto foi colocar em pratica a Clean Architecture - Use cases e principlamente o Jetpack Compose: o framework de UI moderno 
-do Android.
+A motivação desse projeto foi colocar em pratica o novo kit de UI moderno do android, Jetpack Compose.
 
 ## Tecnologias
-Procuramos utilizar as tecnologias mais pedidas em alguma das vagas para desenvolvimento Android no mercado de trabalho.
 * 100% Kotlin
-* Retrofit
 * View Model
 * Coroutines
 * Flow
-* Clean Architecture - Use cases
-* State
+* Room
 
 ## License
 
